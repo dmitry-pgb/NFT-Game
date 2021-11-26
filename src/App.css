@@ -21,12 +21,13 @@
   margin: 0;
   font-size: 50px;
   font-weight: bold;
-  color: white;
+  color: #b12a5b;
 }
 
 .sub-text {
   font-size: 25px;
-  color: white;
+  color: yellow;
+  font-weight: bold;
 }
 
 .content-container {
@@ -101,7 +102,7 @@
 }
 
 .footer-text {
-  color: white;
+  color: yellow;
   font-size: 16px;
   font-weight: bold;
 }
