@@ -17,9 +17,6 @@ For this project I built an Web3 game that allows users to select a playable min
 ## Live project for demo
 https://nft-game.netlify.app/
 
-## Solidity code
-https://github.com/Heizal/epic-game
-
 ### Run the project
 To get started with this project, clone this repo and follow these commands:
 
